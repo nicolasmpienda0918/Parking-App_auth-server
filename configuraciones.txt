@@ -1,0 +1,23 @@
+Nombre_Base_Datos:Parking_auth
+
+Contraseña: FGuubLk06pzCwbzc
+
+
+Usuarios 
+
+Usuario1 : Nicolas Meola
+email: usuario01@gmail.com 
+password: user01-123
+
+
+Usuario2:"Carlos Ochoa",
+email: "user02@gmail.com",
+password: "user02-123"
+
+
+
+cadena de conexion
+bd_conx=mongodb+srv://Parking_auth:FGuubLk06pzCwbzc@parking-auth.g4cck5p.mongodb.net/db_auth
+
+
+SECRET_JWT_SEED=Est0deb3SERC0mpLic4d02022
